@@ -1,0 +1,6 @@
+[package]
+name = "cargo_bin"
+version = "0.1.0"
+authors = ["ActionCactus <n.atkocaitis@gmail.com>"]
+
+[dependencies]
